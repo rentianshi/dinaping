@@ -5,6 +5,6 @@ import org.springframework.stereotype.Controller;
 @Controller
 public class ApiController {
     public void test(){
-        System.out.println("主分支测试");
+        System.out.println("主分支测试team2修改");
     }
 }
